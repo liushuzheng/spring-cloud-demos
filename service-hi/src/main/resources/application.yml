@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: service-hi1
+    active: service-hi2
 ---
 spring:
   profiles: service-hi1
