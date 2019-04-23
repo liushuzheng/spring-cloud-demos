@@ -2,164 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49952052-4de1-48e7-96c5-693cc1294ed5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00f710f3ca5e06f809297be4b100f1e42f5cff44" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/042d643284507672ae282d4c8abeaf4961c56350" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10dabe77bf53aee2dac605599242d8a117798268" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27633cbe4343be825e5cf1f6a1903884b44ab3b6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f69874778571550794c13222ecbd0fee16d3def" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/384aa7be9c0a3bfdf09df1821792ec07158aaaf8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/456ef8ea61035d7eb41a1717718ebe8d790fbf44" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b14bc0e0d33c61164d17c5734081cd6fbbe82a3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/5/656232982402daeb5782e7772e871df5cc9debad" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d6b9c8a8b2a32929c72b065d411c9d3993fdcb8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/7601430f6d501e0db5251b05394065e247dad09e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/923f99bbd35e887990a98ee4c3b02efd0fae9195" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92e0e4ad75a9694bbb58bd7d7adff973ab4170b7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/935ccb776c78e78b57ceede3b73f9a4ab7df02b6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a2f9618c8ad821b143a07a29a9805fcb0b2df470" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a471dd5ed66875d664201847a06ceb189cb3736f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a635bdaea3884a66300fcfc2a0a4dd9b76dd0c79" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6e78da2037c575235bbee55a41aeb106a71c06f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8d52d66dd4a986dc85b5e1f65a6cae032ea9c9a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/8/b8e91fe84e5fd328b36f5912dde44e104c37fc38" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc00b49960334b8ebfb6b7eab255b4ae6f1335d9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bc39a472cc2d08e2f93a0233ea0d73533eb25f73" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be0ff68f849df93aaaa6367ec9be51e88b657bac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf16ff40bf438ce17706141ab8ef34d25e795ad3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/9/c9af040f04f35f8248696c525d9006e2ac49160a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d420bb7285f3fcb448f2d749bba02e7aa7ff3bbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df39f9f00be25406e7974daafeb5c90dff88d888" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e89edb5cfa71f790d204d2a78ecf78d9d1cded01" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea05ba16eccccf44c213ccd2dfc10d34c4f6d1f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f34aacabfaac58e171ee63e12f93147bfb3b317d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f49c846a1b7e2b3b6cf8f5fc4114510fe078cea1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8c1fcc260d58f26f410ff1be225955591401415" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa4575d4229d11c71ef0291dd23eecb683513a75" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/spring-cloud-demos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka/src/main/java/com/liushuz/springclouddemos/cloudeureka/CloudEurekaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-eureka/src/test/java/com/liushuz/springclouddemos/cloudeureka/CloudEurekaApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/liushuz/springclouddemos/configclient/ConfigClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/liushuz/springclouddemos/configclient/controller/ConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-client/src/test/java/com/liushuz/springclouddemos/configclient/ConfigClientApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/src/main/java/com/liushuz/springclouddemos/configserver/ConfigServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/src/main/resources/shared/config-client.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/src/test/java/com/liushuz/springclouddemos/configserver/ConfigServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-consumer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-consumer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-consumer/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-consumer/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-consumer/src/main/java/com/liushuz/springclouddemos/ServiceConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-consumer/src/main/java/com/liushuz/springclouddemos/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-consumer/src/main/java/com/liushuz/springclouddemos/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-consumer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-consumer/src/test/java/com/liushuz/springclouddemos/ServiceConsumerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-contract/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-contract/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-contract/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-contract/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-contract/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-contract/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-contract/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-contract/src/main/java/com/liushuz/springclouddemos/servicecontract/dto/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-contract/src/main/java/com/liushuz/springclouddemos/servicecontract/feign_service/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-contract/src/main/java/com/liushuz/springclouddemos/servicecontract/feign_service/UserContract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-contract/src/main/java/com/liushuz/springclouddemos/servicecontract/feign_service/impl/HelloServiceFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-contract/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-hi/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-hi/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-hi/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-hi/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-hi/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-hi/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-hi/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-hi/src/main/java/com/liushuz/springclouddemos/serverhi/ServiceHiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-hi/src/main/java/com/liushuz/springclouddemos/serverhi/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-hi/src/main/java/com/liushuz/springclouddemos/serverhi/service/HelloServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-hi/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-hi/src/test/java/com/liushuz/springclouddemos/serverhi/ServerHiApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-provider/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-provider/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-provider/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-provider/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-provider/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-provider/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-provider/src/main/java/com/liiushuz/springclouddemos/serviceprovider/ServiceProviderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-provider/src/main/java/com/liiushuz/springclouddemos/serviceprovider/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-provider/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-provider/src/test/java/com/liiushuz/springclouddemos/ServiceProviderApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/liushuz/springclouddemos/serviceribbon/ServiceRibbonApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/liushuz/springclouddemos/serviceribbon/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/java/com/liushuz/springclouddemos/serviceribbon/service/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-ribbon/src/test/java/com/liushuz/springclouddemos/serviceribbon/ServiceRibbonApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/liushuz/springclouddemos/servicezuul/ServiceZuulApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/liushuz/springclouddemos/servicezuul/filter/LoggerFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/liushuz/springclouddemos/servicezuul/filter/MyFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/src/main/java/com/liushuz/springclouddemos/servicezuul/hystrix/MyFallbackProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-zuul/src/test/java/com/liushuz/springclouddemos/servicezuul/ServiceZuulApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-server/src/main/java/com/liushuz/springclouddemos/zipkinserver/ZipkinServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipkin-server/src/test/java/com/liushuz/springclouddemos/zipkinserver/ZipkinServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cloud-eureka/target/" />
@@ -185,94 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-provider/src/main/java/com/liiushuz/springclouddemos/serviceprovider/service/impl/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-contract/src/main/java/com/liushuz/springclouddemos/servicecontract/feign_service/UserContract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-63">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-contract/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-588" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-ribbon/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="42" column="21" selection-start-line="34" selection-start-column="7" selection-end-line="42" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-consumer/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-provider/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/java/com/liushuz/springclouddemos/serviceribbon/service/HelloService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-ribbon/src/main/java/com/liushuz/springclouddemos/serviceribbon/controller/HelloController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-provider/src/main/java/com/liiushuz/springclouddemos/serviceprovider/ServiceProviderApplication.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="196">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-              <folding>
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-consumer/src/main/java/com/liushuz/springclouddemos/ServiceConsumerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="30" selection-end-column="5" />
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -303,7 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/service-hi/src/main/java/com/liushuz/springclouddemos/serverhi/ServerHiApplication.java" />
         <option value="$PROJECT_DIR$/service-contract/src/main/java/com/liushuz/springclouddemos/servicecontract/dto/User.java" />
         <option value="$PROJECT_DIR$/service-provider/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/service-contract/src/main/java/com/liushuz/springclouddemos/feign_service/UserContract.java" />
@@ -354,6 +114,7 @@
         <option value="$PROJECT_DIR$/service-zuul/src/main/java/com/liushuz/springclouddemos/servicezuul/filter/LoggerFilter.java" />
         <option value="$PROJECT_DIR$/service-provider/src/main/java/com/liiushuz/springclouddemos/serviceprovider/ServiceProviderApplication.java" />
         <option value="$PROJECT_DIR$/service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -608,12 +369,12 @@
       <workItem from="1555923358100" duration="6189000" />
       <workItem from="1555929707606" duration="518000" />
       <workItem from="1555930229196" duration="1581000" />
-      <workItem from="1555983886755" duration="1633000" />
+      <workItem from="1555983886755" duration="2370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75528000" />
+    <option name="totallyTimeSpent" value="76265000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -626,8 +387,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28284183" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28284183" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.1508043" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -643,7 +405,7 @@
       <window_info anchor="bottom" id="SonarLint" order="5" weight="0.22108346" />
       <window_info anchor="bottom" id="Java Enterprise" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.55718476" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32551318" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Find" order="10" />
       <window_info anchor="bottom" id="Run" order="11" weight="0.28257686" />
@@ -737,31 +499,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/javaEnvironment/localRepository/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE-sources.jar!/org/springframework/http/MediaType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="728" column="46" selection-start-line="728" selection-start-column="46" selection-end-line="728" selection-end-column="46" />
-          <folding>
-            <element signature="e#17464#17465#0" expanded="true" />
-            <element signature="e#17499#17500#0" expanded="true" />
-            <element signature="e#25878#26344#0" expanded="true" />
-            <element signature="e#26343#26344#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-consumer/src/main/java/com/liushuz/springclouddemos/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service-consumer/src/main/java/com/liushuz/springclouddemos/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1155,6 +892,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
