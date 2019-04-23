@@ -1,0 +1,32 @@
+spring:
+  profiles:
+    active: sp1
+
+---
+spring:
+  profiles: sp1
+  application:
+    name: service-provider
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+server:
+  port: 8770
+
+---
+spring:
+  profiles: sp2
+  application:
+    name: service-provider
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+server:
+  port: 8771
+

@@ -1,0 +1,11 @@
+server:
+  port: 8672
+---
+spring:
+  profiles: dev
+foo: foo version 1
+
+---
+spring:
+  profiles: abc
+foo: foo version abc
