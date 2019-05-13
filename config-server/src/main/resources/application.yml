@@ -12,5 +12,5 @@ spring:
           uri: https://github.com/liushuzheng/config-server
           search-paths:
           username: xiegutimo@aliyun.com
-          password: lsz199212
+          password: xxx
         default-label: master
